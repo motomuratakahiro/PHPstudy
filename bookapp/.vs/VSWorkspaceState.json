@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\resources",
+    "\\resources\\sass",
+    "\\resources\\views",
+    "\\resources\\views\\auth",
+    "\\resources\\views\\common",
+    "\\resources\\views\\layouts",
+    "\\routes",
+    "\\tests",
+    "\\tests\\Feature",
+    "\\tests\\Unit"
   ],
-  "SelectedNode": "\\.editorconfig",
   "PreviewInSolutionExplorer": false
 }
